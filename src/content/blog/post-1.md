@@ -2,10 +2,10 @@
 title: "Maximizando la Eficiencia con las Herramientas de Vanguardia de Artxe Web"
 description: "Innovando la Eficiencia en Construcción Web con Herramientas de Precisión y Soporte"
 author: "Jacob"
-authorImage: "/imagenes/x.jpg"
+authorImage: "../../images/content_images/x.jpg"
 authorImageAlt: "Descripción del Avatar"
 pubDate: 2024-02-06
-cardImage: "/imagenes/x.jpg"
+cardImage: "../../images/content_images/x.jpg"
 cardImageAlt: "Vista superior de herramientas de desarrollo web"
 readTime: 4
 tags: ["herramientas", "desarrollo", "flujo de trabajo"]

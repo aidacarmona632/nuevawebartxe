@@ -1,7 +1,7 @@
 ---
 title: "El Impacto de las Prácticas Sostenibles"
 description: "Descubre cómo Artxe Web está liderando la carga en promover la sostenibilidad dentro de la industria del desarrollo web"
-cardImage: "/imagenes/x.jpg"
+cardImage: "../../images/content_images/x.jpg"
 cardImageAlt: "Vista superior de herramientas de desarrollo sostenible"
 ---
 

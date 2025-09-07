@@ -2,10 +2,10 @@
 title: "Mejorando la Seguridad y la Artesanía con los Servicios de Desarrollo de Artxe Web"
 description: "Servicios de desarrollo web de calidad para resultados duraderos"
 author: "Brad"
-authorImage: "/imagenes/x.jpg"
+authorImage: "../../images/content_images/x.jpg"
 authorImageAlt: "Descripción del Avatar"
 pubDate: 2024-02-10
-cardImage: "/imagenes/x.jpg"
+cardImage: "../../images/content_images/x.jpg"
 cardImageAlt: "Desarrollador trabajando en código con múltiples pantallas"
 readTime: 5
 tags: ["seguridad", "artesanía", "gestión"]
