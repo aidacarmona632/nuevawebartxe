@@ -5,8 +5,8 @@ main:
   id: 3
   content: |
     Conoce el SF-BN B203 – tu compañero confiable para fijación de grado profesional. Este conjunto completo de caja viene con una selección versátil de pernos y tuercas, meticulosamente elaborados para proporcionar el agarre más fuerte para tus proyectos de construcción y ensamblaje.
-  imgCard: "../../images/content_images/x.jpg"
-  imgMain: "../../images/content_images/x.jpg"
+  imgCard: "/imagenes/x.jpg"
+  imgMain: "/imagenes/x.jpg"
   imgAlt: "Cajas de muestra de un conjunto de pernos y tuercas"
 tabs:
   - id: "tabs-with-card-item-1"
@@ -50,6 +50,6 @@ specificationsRight:
   - title: "Aplicaciones Adecuadas"
     subTitle: "Ideal para una amplia gama de usos, desde ambientes de construcción hasta ensambles mecánicos que demandan juntas fuertes y seguras."
 blueprints:
-  first: "../../images/content_images/x.jpg"
-  second: "../../images/content_images/x.jpg"
+  first: "/imagenes/x.jpg"
+  second: "/imagenes/x.jpg"
 ---
